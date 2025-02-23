@@ -27,11 +27,7 @@ This project is part of our **YouTube tutorial** series. Watch the full guide to
 -  **Bug Tracking**: Integrated Sentry to monitor and debug issues in real-time.
 -  **Seamless Deployment**: Hosted and deployed on Vercel for lightning-fast performance.
 
-  
-
----
-
-  
+   
 
 ### 🛠️ Technologies Used
 
