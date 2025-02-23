@@ -47,10 +47,6 @@ This project is part of our **YouTube tutorial** series. Watch the full guide to
 
   
 
----
-
-  
-
 ### 🎯 Why ProjectHub?
 
 - Learn the integration of a modern headless CMS like Sanity.
@@ -65,9 +61,6 @@ This project is part of our **YouTube tutorial** series. Watch the full guide to
 
   
 
----
-
-  
 
 
 ### 🌟 Contributing
