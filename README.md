@@ -17,10 +17,6 @@
 
 This project is part of our **YouTube tutorial** series. Watch the full guide to build it step-by-step:
 
-
-
-  
-
 ### 💡 Features
 
 -  **Sanity CMS Integration**: Manage content effortlessly with a headless CMS
