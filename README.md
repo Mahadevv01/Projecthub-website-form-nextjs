@@ -71,12 +71,7 @@ We welcome contributions to enhance ProjectHub! Feel free to submit issues or pu
 
   
 
----
-
-  
-
 ### 📄 License
-
   
 
 This project is licensed under the **MIT License**. Use it freely, with proper attribution to the author.
